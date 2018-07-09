@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WebMvcFrameWork:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebMvcFrameWork_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WebMvcFrameWork/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WebMvcFrameWork" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="D:/javajar/dom4j-2.1.1.jar" />
+          <element id="file-copy" path="D:/javajar/commons-beanutils-1.9.3.jar" />
+          <element id="file-copy" path="D:/javajar/jaxen-1.1.6.jar" />
+          <element id="file-copy" path="D:/javajar/commons-logging-1.2.jar" />
+          <element id="file-copy" path="D:/javajar/jstl-1.2.jar" />
+          <element id="file-copy" path="D:/javajar/standard-1.1.2.jar" />
+          <element id="file-copy" path="D:/javajar/1234/commons-beanutils-1.8.0.jar" />
+          <element id="file-copy" path="D:/javajar/1234/commons-logging.jar" />
+          <element id="file-copy" path="D:/javajar/1234/dom4j-1.6.1.jar" />
+          <element id="file-copy" path="D:/javajar/1234/jaxen-1.1-beta-6.jar" />
+          <element id="file-copy" path="D:/javajar/1234/jstl.jar" />
+          <element id="file-copy" path="D:/javajar/1234/standard.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
